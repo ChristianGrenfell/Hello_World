@@ -1,4 +1,6 @@
 # Hello_World
 Practice Repository
 
-I am currently a student at The University of Iowa majoring in Business Analytics and Information Systems
+a. Project Title 
+b. Description 
+c. How to Run Program 
